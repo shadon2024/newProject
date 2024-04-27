@@ -7,5 +7,6 @@ target 'newProject' do
 
   # Pods for newProject
   pod 'SnapKit', '~> 5.0.1'
+  pod 'RAMAnimatedTabBarController'
 
 end
